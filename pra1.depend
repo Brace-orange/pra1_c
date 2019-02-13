@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1549000516 source:c:\users\administrator\desktop\cprogram\pra1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1549000516 source:c:\users\administrator\desktop\cprogram\pra1\untitled1.c
+	<stdio.h>
+
